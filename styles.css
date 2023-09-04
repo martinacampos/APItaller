@@ -1,0 +1,53 @@
+*
+{
+  margin: 0;
+  padding: 0;
+  outline: none;
+}
+
+body
+{
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+  background: #586e7d;
+  align-items: center;
+  text-align: center;
+}
+
+
+
+h1 {
+  font-family: Century Gothic, sans-serif;
+  color: #f9f9f9;
+  font-size: 75px;
+}
+
+#encabezado {
+  margin: 9%;
+}
+
+p {
+  color: #a7b1b3;
+}
+
+
+#ingrese, #informacionCiudad {
+  margin: 1%;
+}
+
+#informacionCiudad {
+  color: #E7D6D3
+}
+
+#boton {
+  background-color: #586e7d;
+  color: #a7b1b3;
+  border: none;
+  cursor: pointer;
+}
+
+
+
+
+
+
